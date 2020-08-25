@@ -1,1 +1,1 @@
-test
+The same simple react editor running inside github ui! :)
